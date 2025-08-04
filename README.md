@@ -1,8 +1,3 @@
-Here’s a sample `README.md` file for your portfolio website. You can include this in the root directory of your project (especially useful if you're using GitHub or sharing it with collaborators or recruiters):
-
----
-
-````markdown
 # 🌐 Benson's Portfolio Website
 
 Welcome to my personal portfolio website! This site showcases my skills, projects, and contact information as an IT student and tech enthusiast.
@@ -43,9 +38,8 @@ It also provides an easy way to download my CV, view my past work, and get in to
 
 ## 🎨 Features
 
-* **Responsive Design**
 * **Light/Dark Theme Toggle**
-* **Interactive Contact Form**
+* ** Contact Form**
 * **Downloadable CV**
 * **Social Media Integration**
 * **Font Awesome Icons**
